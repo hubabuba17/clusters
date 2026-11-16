@@ -1,0 +1,12 @@
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.14.1
+scikit-learn==1.6.1
+matplotlib==3.10.0
+seaborn==0.13.2
+plotly==5.24.1
+umap-learn==0.5.7
+trimap==1.2.0
+pacmap==0.9.1
+phate==2.0.0
+kagglehub

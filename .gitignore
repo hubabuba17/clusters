@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.pyc
+# html с 3D-графиком создаётся при запуске lab1_clustering.ipynb
+*.html
